@@ -1,2 +1,4 @@
-# Desafio DIO
- Desafio DIO
+# Desafio DIO - Santander Code Girls
+
+Criando um repositório no GitHub.
+ 
